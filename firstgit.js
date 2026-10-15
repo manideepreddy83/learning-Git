@@ -13,3 +13,8 @@ function subtract(a, b) {
     return a - b;
 }       
 console.log(subtract(20, 10));
+
+function divide(a, b) {
+    return a / b;
+}   
+console.log(divide(20, 10));
