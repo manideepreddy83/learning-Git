@@ -24,3 +24,9 @@ function square(a) {
 }
 
 console.log(square(5));
+
+function cube(a) {
+    return a * a * a;
+}
+
+console.log(cube(3));
