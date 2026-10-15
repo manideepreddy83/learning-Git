@@ -18,3 +18,9 @@ function divide(a, b) {
     return a / b;
 }   
 console.log(divide(20, 10));
+
+function square(a) {
+    return a * a;
+}
+
+console.log(square(5));
